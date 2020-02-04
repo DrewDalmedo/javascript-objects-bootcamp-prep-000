@@ -1,3 +1,3 @@
 var playlist = {
-  Dispatch: "Circles Around the Sun"
+  dispatch: "Circles Around the Sun"
 }
